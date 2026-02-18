@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.stormfkrs.sadtrombone",
+      "sha256_cert_fingerprints": [
+        "43:51:4D:7D:BA:96:A7:93:08:CD:7A:44:21:85:E2:E4:30:63:9C:96:4F:C2:3D:51:E3:AA:62:79:68:B0:6F:DC"
+      ]
+    }
+  }
+]
