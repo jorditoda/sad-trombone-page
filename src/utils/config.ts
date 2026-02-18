@@ -1,10 +1,10 @@
 import type { TemplateConfig } from "./configType";
 
 const templateConfig: TemplateConfig = {
-  name: "Pointer Pointer",
+  name: "Sad Trombone",
   seo: {
-    title: "Download Pointer Pointer",
-    description: "Pointer Pointer",
+    title: "Download Sad Trombone",
+    description: "Sad Trombone",
   },
   // Draws grid behind main container
   backgroundGrid: false,
@@ -14,9 +14,9 @@ const templateConfig: TemplateConfig = {
   forceTheme: false,
   // Shows switch to toggle between dark and light modes
   showThemeSwitch: true,
-  appStoreLink: "https://apps.apple.com/us/app/pointer-pointer/id6743094753",
+//   appStoreLink: "https://apps.apple.com/us/app/pointer-pointer/id6743094753",
   googlePlayLink:
-    "https://play.google.com/store/apps/details?id=com.yapplic.pointer_pointer",
+    "https://play.google.com/store/apps/details?id=com.stormfkrs.sadtrombone",
   footer: {
     legalLinks: {
       termsAndConditions: true,
@@ -49,7 +49,7 @@ const templateConfig: TemplateConfig = {
   },
   appBanner: {
     id: "app-banner",
-    title: "Download Pointer Pointer Today!",
+    title: "Download Sad Trombone Today!",
     subtitle:
       "Use it for fun with your friends",
     screenshots: [
@@ -60,8 +60,8 @@ const templateConfig: TemplateConfig = {
   },
   home: {
     seo: {
-      title: "Download Pointer Pointer Mobile App",
-      description: "Download Pointer Pointer Mobile App",
+      title: "Download Sad Trombone Mobile App",
+      description: "Download Sad Trombone Mobile App",
     },
     testimonials: {
       id: "testimonials",
@@ -71,17 +71,17 @@ const templateConfig: TemplateConfig = {
         {
           name: "Marta G.",
           comment:
-            "Esta app es exactamente lo que necesitaba. El diseño es elegante y las funcionalidades son perfectas para los que nos gusta estar al tanto de todos los detalles mientras conducimos. ¡Un 10!",
+            "I downloaded this app as a joke, but now I use it constantly. The sad trombone sound is crisp, hilarious, and absolutely flawless for every awkward moment. Simple, fast, and effective. A masterpiece of comedic timing.",
         },
         {
           name: "Carlos H.",
           comment:
-            "Una app muy innovadora. Es perfecta para viajes largos y para los que nos gusta tener todo bajo control en el coche. Solo echo en falta la integración con más dispositivos externos.",
+            "This app delivers exactly what it promises: a beautifully tragic sad trombone. The sound quality is amazing, and it never fails to make my friends laugh. It’s become my go‑to reaction for everyday fails. Highly recommended.",
         },
         {
           name: "Juan P.",
           comment:
-            "Como piloto de rally, necesito una herramienta confiable y precisa para monitorizar mi rendimiento en tiempo real. Esta app de HUD ha superado todas mis expectativas. La visualización de la velocidad y las fuerzas G es esencial durante las carreras, y me permite ajustar mi conducción al instante. La interfaz es intuitiva y no distrae durante la conducción, lo cual es crucial en los tramos más complicados. ¡Altamente recomendada para cualquier apasionado del rally!",
+            "I love how straightforward this app is. No ads, no clutter—just pure sad trombone perfection. It’s the ideal tool for adding a touch of dramatic disappointment to any situation. Five stars without hesitation.",
         },
 //         {
 //           name: "Jose R.",
@@ -118,12 +118,12 @@ const templateConfig: TemplateConfig = {
         },
         {
           title: "Click anywhere in the screen",
-          subtitle: "Click anywhere in the screen, try to find the most difficult spot",
+          subtitle: "Click anywhere in the screen,",
           image: "/screenshots/1.png",
         },
         {
-          title: "Someone Pointing your finger",
-          subtitle: "You will find an image of someone pointing where you clicked",
+          title: "Sad trombone sound",
+          subtitle: "You will listen the famous failure sound performed by a trombone",
           image: "/screenshots/4.png",
         },
 //         {
@@ -142,20 +142,20 @@ const templateConfig: TemplateConfig = {
     },
     features: {
       id: "features",
-      title: "All the information you need",
+      title: "The unique sound you need",
       subtitle:
         "Elevate your lifestyle with our innovative mobile app, designed for seamless living",
       cards: [
         {
-          title: "Speed 🎨",
+          title: "Gif 🎨",
           subtitle:
-            "Current speed of the vehicle projected onto the windshield, allowing drivers to monitor their speed without taking their eyes off the road.",
+            "The gif of a cata to make it internet-friendly",
           icon: "/3D/rocket-front-color.webp",
         },
         {
-          title: "G Forces 🎲",
+          title: "Sound 🎲",
           subtitle:
-            "real-time data on the G-forces experienced during driving, helping drivers better understand their vehicle's dynamics and performance.",
+            "Most famous sound on the earth",
           icon: "/3D/trophy-front-color.webp",
         },
 //         {
@@ -177,53 +177,28 @@ const templateConfig: TemplateConfig = {
       title: "Frequently Asked Questions",
       qa: [
         {
-          question: "What is the HUD app and how does it work?",
+          question: "How does it work?",
           answer:
-            "Our HUD (Heads-Up Display) app projects crucial information such as speed and G-forces onto your car’s windshield, allowing for safer, distraction-free driving.",
+            "You just need to click anywhere in the screen and the sound will be emitted",
             },
         {
           question: "Is the app difficult to install and set up?",
           answer:
-            "No, our app is very easy to install and set up. You just need to download it from the app store and accept location permissions.",
+            "No, our app is very easy to install and set up. You just need to download it from the app store and enjoy.",
         },
-        {
-          question: "What devices are compatible with the app?",
-          answer:
-            "The app is compatible with most smartphones running iOS and Android operating systems. Make sure you have the latest version of the OS for optimal performance.",
-        },
-        {
-          question: "Does the app affect my smartphone's performance?",
-          answer:
-            "No, our app is designed to be efficient and does not significantly impact your smartphone's performance.",
-        },
-         {
-           question: "Do I need a special windshield to use the app?",
-           answer:
-             "No, you can use any standard windshield. Just make sure to position your smartphone properly for a clear view.",
-         },
-         {
-           question: "How can I report a problem or give feedback?",
-           answer:
-             "You can contact our technical support team through the contact form on our website or by emailing info@yapplic.com. We’re happy to help.",
-         },
-          {
-            question: "Does the app consume a lot of mobile data?",
-            answer:
-              "he app uses minimal mobile data for certain functions. We recommend using a Wi-Fi connection for updates and initial setup.",
-          },
       ],
     },
     header: {
-      headline: "Point everyone with Pointer Pointer",
+      headline: "Lots of laughs with Sad Trombone",
       subtitle:
-        "Have fun finding all the images",
+        "Have fun finding playing all day",
       screenshots: [
         "/screenshots/3.png",
         "/screenshots/2.png",
         "/screenshots/1.png",
       ],
 //       rewards: ["App of the year \n 1st", "Product of the day"],
-      usersDescription: "100+ people already using the app",
+      usersDescription: "5000+ people already using the app",
       headlineMark: [0, 2],
     },
     pricing: {
@@ -262,12 +237,12 @@ const templateConfig: TemplateConfig = {
   },
   privacyPolicy: {
     seo: {
-      title: "Privacy Policy - Pointer Pointer",
+      title: "Privacy Policy - Sad Trombone",
       description: "Privacy Policy",
     },
     content: `**Privacy Policy**
 
-This privacy policy applies to the Pointer pointer app (hereby referred to as "Application") for mobile devices that was created by Jordi (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the Sad Trombone app (hereby referred to as "Application") for mobile devices that was created by Jordi (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -277,12 +252,6 @@ The Application collects information when you download and use it. This informat
 *   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 *   The time spent on the Application
 *   The operating system you use on your mobile device
-
-The Application does not gather precise information about the location of your mobile device.
-
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
-
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
 *   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
 *   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
@@ -348,7 +317,7 @@ This privacy policy page was generated by [App Privacy Policy Generator](https:/
   },
   cookiesPolicy: {
     seo: {
-      title: "Cookies Policy - Pointer Pointer",
+      title: "Cookies Policy - Sad Trombone",
       description: "Cookies Policy",
     },
     content: `# Cookies Policy
@@ -419,12 +388,12 @@ info@yapplic.com
   },
   termsAndConditions: {
     seo: {
-      title: "Terms and conditions - Pointer Pointer",
+      title: "Terms and conditions - Sad Trombone",
       description: "Terms and conditions",
     },
     content: `**Terms & Conditions**  
 
-These terms and conditions apply to the Pointer pointer app (hereby referred to as "Application") for mobile devices that was created by Jordi (hereby referred to as "Service Provider") as an Ad Supported service.
+These terms and conditions apply to the Sad Trombone app (hereby referred to as "Application") for mobile devices that was created by Jordi (hereby referred to as "Service Provider") as an Ad Supported service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
